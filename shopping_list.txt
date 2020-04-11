@@ -2,4 +2,6 @@ seker
 tuz
 salca
 makrna
-
+un
+yumurta 
+sut
